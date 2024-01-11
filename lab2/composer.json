@@ -1,0 +1,15 @@
+{
+    "name": "php2/oop",
+    "description": "lapTrinhDoiTuong",
+    "autoload": {
+        "psr-4": {
+            "Php2\\Oop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hienpt"
+        }
+    ],
+    "require": {}
+}
